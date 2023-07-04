@@ -23,4 +23,19 @@ To replicate a post, follow these steps:
 | ----------------------------------------------------- | --------------------------------------------- |
 | ![Screenshot from 2023-07-04 13-04-16](https://github.com/Shanu85/InstaAutoShare/assets/63155782/551914c7-7006-48b5-8737-0f202196d2ab) | ![Screenshot from 2023-07-04 13-04-37](https://github.com/Shanu85/InstaAutoShare/assets/63155782/2d9b7133-c365-4a19-9b02-f5512317d80f) |
 
+## Like Post related to a Hashtag 
+To enhance account engagement, you can like posts related to a specific hashtag.
+Follow these steps, which are similar to the ones described for creating a post:
+  1. Select the user accounts
+  2. Enter the hashtag name
+  3. Specify the number of posts you want the account to like.
+
+| Submit Detials                                                   | Like of selected user(ranuv0803)                                           |
+| ----------------------------------------------------- | --------------------------------------------- |
+| ![Screenshot from 2023-07-04 13-09-52](https://github.com/Shanu85/InstaAutoShare/assets/63155782/86de77ca-9e05-4b43-8aea-5e940cf86a98) | ![Screenshot from 2023-07-04 13-16-42](https://github.com/Shanu85/InstaAutoShare/assets/63155782/26ff12c1-9b8d-4b01-b425-edb3151353f7) |
+
+
+
+
+
 
