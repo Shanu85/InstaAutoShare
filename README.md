@@ -36,6 +36,17 @@ Follow these steps, which are similar to the ones described for creating a post:
 
 As we can in 'Like of selected user(ranuv0803)' , the code will create like 5 posts that are related to the hashtag 'space'. 
 
+## Send Follow Request
+
+
+| Submit Detials                                                   | Follow Request                                           |
+| ----------------------------------------------------- | --------------------------------------------- |
+| ![Screenshot from 2023-07-04 13-28-13](https://github.com/Shanu85/InstaAutoShare/assets/63155782/0c17c05a-3ddc-4e97-abf7-b9c74992a050) | ![Screenshot from 2023-07-04 13-28-41](https://github.com/Shanu85/InstaAutoShare/assets/63155782/1a0026c4-fd35-4011-b3d0-d5dbc5be7535) |
+
+
+
+
+
 
 
 
