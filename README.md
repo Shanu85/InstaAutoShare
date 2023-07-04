@@ -47,7 +47,11 @@ Enter the username of the account to which you want to send the follow request.
 | ![Screenshot from 2023-07-04 13-28-13](https://github.com/Shanu85/InstaAutoShare/assets/63155782/0c17c05a-3ddc-4e97-abf7-b9c74992a050) | ![Screenshot from 2023-07-04 13-28-41](https://github.com/Shanu85/InstaAutoShare/assets/63155782/1a0026c4-fd35-4011-b3d0-d5dbc5be7535) |
 
 
+# Tech Stack Used
+Nodejs, Reactjs, Material UI, MongoDB
 
+
+Thanks for reading 😊 !!!
 
 
 
