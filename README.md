@@ -50,6 +50,12 @@ Enter the username of the account to which you want to send the follow request.
 # Tech Stack Used
 Nodejs, Reactjs, Material UI, MongoDB
 
+# Important
+:warning: Don't forgot to delete the account we add while using the application, as someone other can misuse your account
+
+![My project-1](https://github.com/Shanu85/InstaAutoShare/assets/63155782/e2879eda-5097-484b-b2db-ecbde0aa1315)
+
+
 
 Thanks for reading 😊 !!!
 
