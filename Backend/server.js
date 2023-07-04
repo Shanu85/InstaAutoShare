@@ -16,7 +16,7 @@ serverApp.use(cookieParser());
 mongoose.set("strictQuery", false);
 
 serverApp.use(cors({
-    origin:['http://localhost:3000'],
+    origin:['http://localhost:3000','https://insta-auto-share.vercel.app'],
     credentials:true
 }));
 
