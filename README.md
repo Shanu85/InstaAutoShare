@@ -25,6 +25,7 @@ To replicate a post, follow these steps:
 
 ## Like Post related to a Hashtag 
 To enhance account engagement, you can like posts related to a specific hashtag.
+
 Follow these steps, which are similar to the ones described for creating a post:
   1. Select the user accounts
   2. Enter the hashtag name
@@ -38,6 +39,7 @@ As we can in 'Like of selected user(ranuv0803)' , the code will create like 5 po
 
 ## Send Follow Request
 You can simultaneously send follow requests to an account from multiple selected accounts. 
+
 Enter the username of the account to which you want to send the follow request.
 
 | Submit Detials                                                   | Follow Request                                           |
