@@ -20,5 +20,5 @@ To replicate a post, follow these steps:
   3. Click "Submit."
 | Submit Details                                                   | Post Created                                           |
 | ----------------------------------------------------- | --------------------------------------------- |
-| ![Screenshot from 2023-07-04 13-04-16](https://github.com/Shanu85/InstaAutoShare/assets/63155782/551914c7-7006-48b5-8737-0f202196d2ab)  |  ![Screenshot from 2023-07-04 13-04-37](https://github.com/Shanu85/InstaAutoShare/assets/63155782/2d9b7133-c365-4a19-9b02-f5512317d80f)|
+|![Screenshot from 2023-07-04 13-04-16](https://github.com/Shanu85/InstaAutoShare/assets/63155782/551914c7-7006-48b5-8737-0f202196d2ab)|![Screenshot from 2023-07-04 13-04-37](https://github.com/Shanu85/InstaAutoShare/assets/63155782/2d9b7133-c365-4a19-9b02-f5512317d80f)|
 
