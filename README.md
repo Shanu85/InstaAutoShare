@@ -51,7 +51,7 @@ Enter the username of the account to which you want to send the follow request.
 Nodejs, Reactjs, Material UI, MongoDB
 
 # Important
-:warning: Don't forgot to delete the account we add while using the application, as someone other can misuse your account
+:warning: Please ensure to delete the added accounts once you have finished using the application to prevent any potential misuse by unauthorized individuals.
 
 ![My project-1](https://github.com/Shanu85/InstaAutoShare/assets/63155782/4eba90a5-9379-4fdd-9e30-7630cb63ca09)
 
