@@ -37,7 +37,8 @@ Follow these steps, which are similar to the ones described for creating a post:
 As we can in 'Like of selected user(ranuv0803)' , the code will create like 5 posts that are related to the hashtag 'space'. 
 
 ## Send Follow Request
-
+You can simultaneously send follow requests to an account from multiple selected accounts. 
+Enter the username of the account to which you want to send the follow request.
 
 | Submit Detials                                                   | Follow Request                                           |
 | ----------------------------------------------------- | --------------------------------------------- |
